@@ -1,6 +1,6 @@
-baseurl = "https://ricompute.github.io/apsa-website-test"
+baseurl = "https://lluapsa.com"
 DefaultContentLanguage = "en-us"
-title = "APSA LLU"
+title = "LLU APSA"
 theme = "beautifulhugo"
 metaDataFormat = "yaml"
 pygmentsUseClasses = true
@@ -31,8 +31,8 @@ publishDir = "docs"
 #  desc = "Hexagon"
 
 [Author]
-  name = "APSA LLU"
-  email = "youremail@domain.com"
+  name = "LLU APSA"
+  email = "lluapsa@gmail.com"
   facebook = "groups/apsallu"
   #googleplus = "+username" # or xxxxxxxxxxxxxxxxxxxxx
   #github = "username"
