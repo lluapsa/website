@@ -1,3 +1,3 @@
-## Welcome to APSA LLU
+## Welcome to LLU APSA
 
-APSA LLU seeks to inspire, empower, and equip physician-scientists at LLU for success.
+LLU APSA seeks to inspire, empower, and equip physician-scientists at LLU for success.

@@ -1,5 +1,5 @@
 ---
-title: "About APSA LLU"
+title: "About LLU APSA"
 subtitle: "Inspire, empower, equip"
 comments: false
 paginate: 0
