@@ -60,21 +60,14 @@ publishDir = "docs"
     weight = 1
 
 [[menu.main]]
-    identifier = "resources"
-    name = "Resources"
-    weight = 2
-
-[[menu.main]]
-    parent = "resources"
     name = "Community"
-    url = "resources/community"
-    weight = 1
+    url = "page/community/"
+    weight = 2
 
 [[menu.main]]
-    parent = "resources"
     name = "Academics"
-    url = "resources/academics"
-    weight = 2
+    url = "page/academics/"
+    weight = 3
 
 #[[menu.main]]
 #    parent = "samples"
