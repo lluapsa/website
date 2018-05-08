@@ -9,7 +9,7 @@ pygmentCodeFences = true
 #googleAnalytics = "XXX"
 
 [Params]
-  subtitle = "The Loma Linda University chapter of the American Physician Scientist Association"
+  subtitle = "The Loma Linda University chapter of the American Physician Scientists Association"
   logo = "img/circle-text-dark.svg.png"
   favicon = "img/circle-text-dark.svg.png"
   dateFormat = "January 2, 2006"
