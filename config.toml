@@ -7,7 +7,6 @@ pygmentsUseClasses = true
 pygmentCodeFences = true
 #disqusShortname = "XXX"
 #googleAnalytics = "XXX"
-publishDir = "docs"
 
 [Params]
   subtitle = "The Loma Linda University chapter of the American Physician Scientist Association"
