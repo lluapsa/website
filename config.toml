@@ -55,18 +55,13 @@ pygmentCodeFences = true
 
 [[menu.main]]
     name = "About"
-    url = "page/about/"
+    url = "about/"
     weight = 1
 
 [[menu.main]]
-    name = "Community"
-    url = "page/community/"
+    name = "Resources"
+    url = "resources/"
     weight = 2
-
-[[menu.main]]
-    name = "Academics"
-    url = "page/academics/"
-    weight = 3
 
 #[[menu.main]]
 #    parent = "samples"

@@ -1,11 +1,11 @@
 ---
 title: "About LLU APSA"
-subtitle: "Inspire, empower, equip"
+subtitle: "Inspire, empower, equip."
 comments: false
 paginate: 0
 ---
 
-## Mission Statement
+# Mission Statement
 
 The mission of APSA at Loma Linda University is to inspire, empower, and equip 
 physician-scientists at Loma Linda University for success by:
