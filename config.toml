@@ -63,6 +63,11 @@ pygmentCodeFences = true
     url = "resources/"
     weight = 2
 
+[[menu.main]]
+    name = "Newsletter"
+    url = "newsletter/"
+    weight = 3
+
 #[[menu.main]]
 #    parent = "samples"
 #    name = "Math Sample"
