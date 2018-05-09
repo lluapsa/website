@@ -1,0 +1,4 @@
+http://lluapsa.com/* https://lluapsa.com/:splat 301!
+
+http://lluapsa.netlify.com/* https://lluapsa.com/:splat 301!
+https://lluapsa.netlify.com/* https://lluapsa.com/:splat 301!
